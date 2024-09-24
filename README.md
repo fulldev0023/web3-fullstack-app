@@ -16,7 +16,7 @@ The system should look like:
 
 ![system](./system.jpg)
 
-## Technical Requirements
+## Technical Requirements.
 
 1. The frontend should be a single page application written in ReactJS.
 2. The design and UX of the front should be given some love and thought.

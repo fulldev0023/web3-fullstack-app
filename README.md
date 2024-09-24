@@ -34,7 +34,7 @@ The system should look like:
 
 ## Configuration:
 
-1. Open the ganache client
+1. Open the ganache client.
 2. Configure mysql(the directory path is: .\node_modules\dao\ dbConnect.js), configure *"host"*, *"user"*, *"password"*, *"database"*(i.e. database name) fields, and then create a table in mysql after configuration, add three fields *"username"*, *"password"*, *"chainadd"*
 
 ## Operation Process:
